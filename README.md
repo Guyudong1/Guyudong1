@@ -1,4 +1,10 @@
-### Hi there👋Welcome to my github homepage,here are some introductions to get you to know me ~
+# 👋About me ~
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guyudong1&show_icons=true&theme=transparent" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guyudong1&layout=compact" width="300"/>
+</p>
+
 ## - 🔭 currently working on ...
 ### &bull; dynamic visualization
 ######     Well, use Manim's dynamic visualization to do educational videos on computer programming
@@ -19,8 +25,4 @@
 ### &bull; Wechat:-->
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guyudong1&show_icons=true&theme=transparent" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guyudong1&layout=compact" width="300"/>
-</p>
 
