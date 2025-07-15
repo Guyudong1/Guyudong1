@@ -20,7 +20,8 @@
 
 
 <p align="center">
-<a href="https://fxxkpython.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guyudong1&hide=contribs"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Guyudong1&hide=contribs" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guyudong1&layout=compact" width="300"/>
 </p>
+
+
