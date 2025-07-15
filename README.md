@@ -17,3 +17,10 @@
 ## - 📫 How to reach me: ...
 ### &bull; QQmail:
 ### &bull; Wechat:
+
+
+<p align="center">
+<a href="https://fxxkpython.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guyudong1&hide=contribs"/>
+</a>
+</p>
