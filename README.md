@@ -1,5 +1,4 @@
 ### Hi there👋Welcome to my github homepage,here are some introductions to get you to know me ~
-# 
 ## - 🔭 I’m currently working on ...
 ### -  1.dynamic visualization
 ####     Well, use Manim's dynamic visualization to do educational videos on computer programming
@@ -10,6 +9,7 @@
 ### -  2.nlp
 ### -  3.dynamic visualization
 <!--## - 🤔 I’m looking for help with ...-->
+## 
 ## - 😄 interests: ...
 ### - 1.write own short essays
 ### - 2.Express ideas through dynamic visualizations
