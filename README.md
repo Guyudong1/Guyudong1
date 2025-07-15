@@ -14,9 +14,9 @@
 #### &bull; write own short essays
 #### &bull; Express ideas through dynamic visualizations
 #### &bull; Use artificial intelligence technology to implement some small projects which may not so technical but must be absolutely interesting 
-## - 📫 How to reach me: ...
+<!--## - 📫 How to reach me: ...
 ### &bull; QQmail:
-### &bull; Wechat:
+### &bull; Wechat:-->
 
 
 <p align="center">
