@@ -1,7 +1,7 @@
 # 👋About me ~
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guyudong1&show_icons=true&theme=transparent" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Guyudong1&show_icons=true&theme=radical" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guyudong1&layout=compact&langs_count=6&card_width=350" width="418" />
 </p>
 
